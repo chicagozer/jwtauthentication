@@ -1,0 +1,14 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "ZLS test authentication",
+  "main": "zls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Mittler",
+  "license": "ISC",
+  "dependencies": {
+    "google-oauth-jwt": "^0.2.0"
+  }
+}
